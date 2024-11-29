@@ -2,7 +2,7 @@
 This project is a Role-Based Access Control (RBAC) system implemented using Node.js, Express, MongoDB, and vanilla JavaScript for the frontend.
 
 ## Features
-- User authentication (register, login, logout) using JWT
+- User authentication (register, login, logout)
 - Role-based access control (Admin, Moderator, User)
 - User management (for Admin and Moderator roles)
 - Post creation and management
