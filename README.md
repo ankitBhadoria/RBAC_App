@@ -18,7 +18,7 @@ This project is a Role-Based Access Control (RBAC) system implemented using Node
        I decide that admin-admin ,moderator-moderator,user-user cannot do anything to one another and the hierarchy of control is admin > moderator > user in terms of power and control for this app.
 
 ## Prerequisites
-- Node.js (v14 or later)
+- Node.js
 - MongoDB
 - Git Bash
 
